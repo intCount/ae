@@ -1,6 +1,6 @@
 Id,Name,Job,Region,Address,City,Last_Update,Lat,Long_,Phone,Whatsapp,Active
-1,intCount,,,"",,2020-02-01,إنضم إلى المجموعة,00212602284421,"",5.802063-,35.777401
-2,هشام,حلول تكنولوجيا المعلومات, Medina,"Lotissement Al Waheda Batiment:2 N=1,92000",Larache,2020-04-07,35.168221,-6.158947,"05 31-074619",00212 6 02284421,نعم
+1,حلول تكنولوجيا المعلومات,intCount,Medina,Avenue Youssef Ben Tachefine,Tanger,2020-06-01,إنضم إلى المجموعة,00212602284421,"",5.802063-,35.777401
+2,هشام,حلول تكنولوجيا المعلومات, Larache Medina,"Lotissement Al Waheda Batiment:2 N=1,92000",Larache,2020-04-07,35.171412,-6.158095,"05 31-074619",00212 6 02284421,نعم
 3,رضوان بارز,الجبس والديكور,Kenitra Medina,"près du café vogue Rue Moulay Ismail,14050",Kenitra,2020-06-01,34.255715,-6.586178,"06 66-863337",غير متاح,نعم 
 4,فوزي مصطفى ,خدمات أمنية خاصة,Agadir,"N= 45 Avenue Hanssali lkhayam 2,80000 ",Agadir,2020-05-21,30.420478,-9.566157,"06 06-543950",00212 674168835,نعم
 5,بدر للاستشارات,محاسب,Casablanca,"52 boulevard anoual sidi othmane Casablanca,20450 ",Casablanca,2020-06-05,33.566837,-7.566479,"06 25-119696",غير متاح,نعم
